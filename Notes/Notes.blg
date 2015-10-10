@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Notes.aux
+The style file: plain.bst
+Database file #1: NotesBib.bib
+I was expecting a `,' or a `}'---line 11 of file NotesBib.bib
+ :  
+ :  title={{NHANES 2009-2012} Findings: Association of Sexual Behaviors with Higher Prevalence of Oral Oncogenic Human Papillomavirus Infections in {U.S.} Men},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 25 of file NotesBib.bib
+ :   
+ :   %author={Anil Chaturvedi and Eric Engels and Ruth Pfeiffer and Brenda Hernandez and Weihong Xiao and Esther Kim and Bo Jiang and Marc Goodman and Maria Sibug-Saber and Wendy Cozen and Lihua Liu and Charles Lynch and Nicolas Wentzensen and Richard Jordan and Sean Altekruse and William Anderson and Philip Rosenberg and Maura Gillison},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Graham:2015"
+You've used 2 entries,
+            2118 wiz_defined-function locations,
+            514 strings with 4410 characters,
+and the built_in function-call counts, 606 in all, are:
+= -- 54
+> -- 41
+< -- 0
++ -- 16
+- -- 14
+* -- 44
+:= -- 119
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 20
+empty$ -- 36
+format.name$ -- 14
+if$ -- 115
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 13
+num.names$ -- 4
+pop$ -- 9
+preamble$ -- 1
+purify$ -- 11
+quote$ -- 0
+skip$ -- 17
+stack$ -- 0
+substring$ -- 10
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 0
+while$ -- 4
+width$ -- 3
+write$ -- 24
+(There were 2 error messages)
