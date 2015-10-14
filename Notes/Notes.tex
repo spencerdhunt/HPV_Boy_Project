@@ -176,9 +176,9 @@ This is a diagram explaining the infection cycle:
 \begin{tikzpicture}
 \node (S) [bigcompartment,bottom color=blue!30] {{$S$}};
 \node (SI) [right=of S]{{}};
-\node (I) [right=of SI,bigcompartment,bottom color=red!30]{{$I$}};
+\node (I) [right=of SI,bigcompartment,bottom color=red!30]{{$I_i$}};
 \node (ID) [right=of I]{};
-\node (D) [bigcompartment,right=of ID,bottom color=violet!30]{{$D$}};
+\node (D) [bigcompartment,right=of ID,bottom color=violet!30]{{$D_i$}};
 \node (DR+) [above=of D]{};
 \node (DR-) [below=of D]{};
 \node (R+) [above=of DR+,bigcompartment,bottom color=green!30]{$R_+$};
@@ -195,6 +195,7 @@ This is a diagram explaining the infection cycle:
 
 \end{tikzpicture}
 \end{center}
+\caption{Compartmental diagram for the disease progression of site specific HPV infections.  We have individuals in the susceptible $S$ class when they are infection free.  Individuals move into the infection class after they come into contact with another infected individual.  They move into a site specific infection class $I_i$ based on gender (vagina vs. penis) and based on probability of infection in a particular site (oropharynx, anus, and genitals).   These infected individuals may progress to disease $D_i$ or they may clear the infection.  If the individual seroconverts, they move into the $R+$ category, which provides them some protection from subsequent infection, otherwise, they move back to the $S$ class.  Seroconverted individuals may also sero-revert and move into the $S$ class, losing protective effects against subsequent infection.  }
 \end{figure}
 
 Because these oncogenic HPV types are sexually transmitted and because we are concerned with the effects of vaccination on both men and women, we separate the population by gender.  Many HPV models consider solely heterosexual transmission.  Because MSM have limited benefits from the female herd immunity, we also consider MSM and exclusively heterosexual men (xM), and WSW and exclusively heterosexual women (xW).  
@@ -217,7 +218,7 @@ Currently, there is a vaccination program for pre-pubescent adolescent girls, ar
 In 2015, British Columbia has approved vaccination programme for at-risk boys which include the following groups.  BC has defined at-risk boys as identifying as gay or questioning (MSM) and those who are ``street involved''.
 {itemize}
 
-Some test edits
+
 
 \newpage
 \bibliographystyle{plain}
