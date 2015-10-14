@@ -1,0 +1,6 @@
+if(FavChar == "Spencer"){
+	print "You have chosen my favourite character";
+}else{
+	print "Homer is better";
+}
+//Code for great new feature goes here!
